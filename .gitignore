@@ -3,3 +3,7 @@ build/
 target/
 .project
 .classpath
+
+# intellij files
+*.iml
+.idea
