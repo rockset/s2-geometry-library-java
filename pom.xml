@@ -25,7 +25,7 @@
     <relativePath />
   </parent>
 
-  <groupId>com.google.common.geometry</groupId>
+  <groupId>com.rockset.internal.com.google.common.geometry</groupId>
   <artifactId>s2-geometry-library-java</artifactId>
   <version>HEAD-SNAPSHOT</version>
   <name>S2 Geometry Library for Java</name>
