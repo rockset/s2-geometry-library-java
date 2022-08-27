@@ -27,7 +27,7 @@
 
   <groupId>com.rockset.internal.com.google.common.geometry</groupId>
   <artifactId>s2-geometry-library-java</artifactId>
-  <version>HEAD-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>S2 Geometry Library for Java</name>
   <description>
     Core geometry libraries for Java.
